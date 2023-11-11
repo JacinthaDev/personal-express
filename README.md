@@ -1,5 +1,6 @@
 # 🧳Packing List
 
+<img width="1440" alt="packing-list" src="https://github.com/JacinthaDev/personal-express1/assets/129231721/4e7920be-ae49-4a52-b529-a5a3e2d78726">
 
 
 # About this project
