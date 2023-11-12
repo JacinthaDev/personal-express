@@ -31,10 +31,10 @@ I created this project with my own database. I learned how to communicate with t
 ## Examples:
 Take a look at similar projects!
 
+Appointment Scheduler: https://github.com/JacinthaDev/personalfullstack1
+
 21 Savage Lyrics: https://github.com/JacinthaDev/savage-complete
 
-Country Info API: https://github.com/JacinthaDev/countries-api/
 
-
-#### Backend Technologies
+## Backend Technologies
 MongoDB Atlas: https://www.mongodb.com/atlas/database
